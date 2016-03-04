@@ -4,7 +4,7 @@
         <description><![CDATA[Progetti di architettura e ingegneria]]></description>
         <link>https://thegrid.ai/archingstudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 18:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 18:48:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/archingstudio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La Casa del Cardinale]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/archingstudio/2a199328-bc99-43f3-a31b-183351dcd3e2/index.html</link>
             <guid isPermaLink="false">2a199328-bc99-43f3-a31b-183351dcd3e2</guid>
             <pubDate>Fri, 04 Mar 2016 18:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SARUNI OCEAN RESORT]]></title>
+            <description><![CDATA[<article><h1>SARUNI OCEAN RESORT</h1><p>Luxury resort in Msambweni Kenya</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9934e411f19d688a8702ef4f7c04c9c9bb07c46.jpg"></article>]]></description>
+            <link>https://thegrid.ai/archingstudio/saruni-ocean-resort/index.html</link>
+            <guid isPermaLink="false">c653a420-8ed5-4c5c-a76c-e8dcf5e8016f</guid>
+            <pubDate>Fri, 04 Mar 2016 18:46:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
