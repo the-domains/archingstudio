@@ -1,0 +1,28 @@
+name: Archingstudio
+favicon: null
+layout_spectrum: 0.45065330527722836
+typography_spectrum: 0.8445454742759466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4682371474336833
+  lightness: 0.2242230218835175
+  saturation: 0.16825471259653568
+  rhythmicContrast: 0.37432361231185496
+purpose: []
