@@ -1,7 +1,7 @@
 name: Archingstudio
 favicon: null
-layout_spectrum: 0.45065330527722836
-typography_spectrum: 0.8445454742759466
+layout_spectrum: 1
+typography_spectrum: 0.22685
 title: Progetti di architettura e ingegneria
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#98cd37'
-    - '#000000'
-    - '#2a2a2a'
-    - '#868686'
+    - '#e1cfc5'
+    - '#8c9fc0'
+    - '#070b0a'
+    - '#3e706d'
+    - '#454346'
   brandStrength: 1
   lightness: 0.25
   saturation: 0.5
