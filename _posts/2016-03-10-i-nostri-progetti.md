@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.archingstudio.org/index.php/inostriprogetti'
 inLanguage: it
-starred: false
+starred: true
 keywords: []
 description: 'ArchingStudio: associazione di ingegneri ed architetti'
-datePublished: '2016-03-10T19:11:52.957Z'
-dateModified: '2016-03-07T08:15:47.808Z'
+datePublished: '2016-03-10T19:16:54.028Z'
+dateModified: '2016-03-10T19:15:48.551Z'
 author: []
 related: []
 app_links: []
