@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Progetti di architettura e ingegneria]]></title>
-        <description><![CDATA[Progetti di architettura e ingegneria]]></description>
+        <title><![CDATA[Associazione Professionale Architetti e Ingegneri]]></title>
+        <description><![CDATA[Associazione Professionale Architetti e Ingegneri]]></description>
         <link>https://thegrid.ai/archingstudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 09:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 19:12:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/archingstudio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La Casa del Cardinale]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/archingstudio/2a199328-bc99-43f3-a31b-183351dcd3e2/index.html</link>
             <guid isPermaLink="false">2a199328-bc99-43f3-a31b-183351dcd3e2</guid>
             <pubDate>Fri, 04 Mar 2016 18:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Nostri Progetti]]></title>
+            <description><![CDATA[<article><h1>I Nostri Progetti</h1><p>ArchingStudio: associazione di ingegneri ed architetti</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a66d4e074cade1b67ce9c7dbabb181b787a036c4.png"></article>]]></description>
+            <link>http://www.archingstudio.org/index.php/inostriprogetti</link>
+            <guid isPermaLink="false">a6d40826-0f0a-43d3-8cce-bbfa6f1d0ea1</guid>
+            <pubDate>Thu, 10 Mar 2016 19:11:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Come siamo strutturati ]]></title>
