@@ -1,29 +1,131 @@
-name: Archingstudio
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.36172
-title: Associazione Professionale Architetti e Ingegneri
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.7719785611668952
+typography_spectrum: 0.12389987985041029
 color:
   brandColors:
-    - '#ffffff'
-    - '#6bc52f'
-    - '#333333'
     - '#000000'
-    - '#249d3d'
-  brandStrength: 0
-  lightness: 0.875
-  saturation: 0.3125
-  rhythmicContrast: 0.5
-purpose: []
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.6092325892649813
+  lightness: 0.7736809320888934
+  saturation: 0.13037429554360264
+  rhythmicContrast: 0.49559667775425875
+opengraph: {}
+analytics: {}
+author:
+  name: Privacy Policy
+  url: 'https://www.iubenda.com/privacy-policy/12047375'
+  email: max.lusetti@archingstudio.org
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d47083ae-7dd4-4cb6-b390-e01d8b7772b1.png
+name: PROPERTYFINDER ITA
+url: 'https://ita.myarching.link/'
+cta: {}
+navigation:
+  - name: English
+    url: 'http://myarching.link'
+    type: external
+  - name: Chi siamo
+    id: 4b1eac64-c2f9-4e4f-91f7-7697376aaa57
+    type: content
+  - name: A chi ci rivolgiamo
+    id: bea0e1d7-1966-4ec9-b881-78728f432a68
+    type: content
+  - name: I nostri servizi
+    id: 8bbd4943-21b3-49d6-b9f6-02d04ade1fc5
+    type: content
+  - name: Raccontaci quello che stai cercando
+    id: dccb6798-1861-46ef-a40c-e742c5e57c62
+    type: content
+  - name: come procediamo
+    id: 7550cdc9-d791-4af4-863b-e627f2a8b98a
+    type: content
+  - name: Blog
+    id: d66ead03-685c-44af-aaae-3ff93f8d35f1
+    type: content
+  - name: Highlighter
+    url: 'http://costumer.myarching.link'
+    type: external
+title: Il tuo personal property finder
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHibg1BvD188%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHibg1BvD188&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHibg1BvD188%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/Hibg1BvD188'
+      keywords:
+        - ''
+      related: []
+      author:
+        - name: Max Lusetti
+          url: 'https://www.youtube.com/user/archingstudio1'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: ARCHINGSTUDIO.ORG
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Hibg1BvD188&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=Hibg1BvD188'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=Hibg1BvD188
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=Hibg1BvD188
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/ringo/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      description: >-
+        Video ufficiale del sito (gestito con licenza wix) per condivisione su
+        altri siti collegati archingstudio. - collegamento a sito Archingstudio
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Cerchiamo, progettiamo, ristrutturiamo e poi gestiamo le tue proprietà per
+  lasciarti solo il bello di possedere un immobile in Italia 
+purpose:
+  - type: contact
+    label: manda una email
+    url: 'mailto:max.lusetti@archingstudio.org'
+  - type: external
+    url: 'http://massimiliano.lusetti.mtalk.net'
+    label: chiamaci sul web gratis
+github: true
